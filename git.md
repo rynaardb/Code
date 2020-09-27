@@ -19,8 +19,8 @@ git config --global user.name "Rynaard Burger"
 git config --global user.email "ryno.burger@gmail.com"
 
 # Set username and email (global - for current repo)
-git config user.name "Rynaard Burger
-git config user.email "ryno.burger@gmail.com
+git config user.name "Rynaard Burger"
+git config user.email "ryno.burger@gmail.com"
 
 # Initialize a new repository
 git init
